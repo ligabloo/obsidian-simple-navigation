@@ -1,0 +1,9 @@
+{
+	"id": "simple-navigation",
+	"name": "Simple Navigation",
+	"version": "1.0.0",
+	"minAppVersion": "1.9.10",
+	"description": "A simple sidebar for daily notes, recent notes and Bases.",
+	"author": "Matheus Ligabue da Silva",
+	"isDesktopOnly": false
+}
